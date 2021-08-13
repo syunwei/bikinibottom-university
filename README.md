@@ -1,2 +1,2 @@
-Building an image for bikinibottom university
+A repo for building a image for bikinibottom university
 ![](./images/bikinibottom-university.png)
